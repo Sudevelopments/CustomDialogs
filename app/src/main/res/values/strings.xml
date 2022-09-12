@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomDialogs</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="custom_dialog_content_wich_we_can_set_our_own">Custom Dialog Content. Wich we can set our own</string>
+    <string name="custom_dialog_title">Custom Dialog Title</string>
+    <string name="submit">SUBMIT</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
